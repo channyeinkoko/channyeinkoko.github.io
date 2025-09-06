@@ -1,3 +1,43 @@
-title: Kangaroo Burma
-description: A simple site with Jekyll theme
+title: Platform Engineering Hub
+description: "Exploring the World of Internal Developer Platforms"
 theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+
+# Site Settings
+locale: "en-US"
+subtitle: "Building Better Developer Experiences"
+name: "Chan Nyein Ko Ko"
+url: "https://channyeinkoko.github.io"
+repository: "channyeinkoko/channyeinkoko.github.io"
+
+# Site Author
+author:
+  name: "Chan Nyein Ko Ko"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Platform Engineering Enthusiast"
+  location: "Sydney, Australia"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/channyeinkoko"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/channyeinkoko"
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
