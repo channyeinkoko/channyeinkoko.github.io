@@ -18,11 +18,13 @@ subtitle: "Building Better Developer Experiences"
 name: "Chan Nyein Ko Ko"
 url: "https://channyeinkoko.github.io"
 repository: "channyeinkoko/channyeinkoko.github.io"
+logo: "https://avatars.githubusercontent.com/u/32431724"
+masthead_title: " "
 
 # Site Author
 author:
   name: "Chan Nyein Ko Ko"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "https://avatars.githubusercontent.com/u/32431724"
   bio: "Platform Engineering Enthusiast"
   location: "Sydney, Australia"
   links:
